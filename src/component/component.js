@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import css from './component.css'
+import  './component.css'
 
 export default class Comp extends Component {
 
